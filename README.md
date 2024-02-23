@@ -3,14 +3,17 @@
 ## Skills
 
 ---
-### Major
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-437291?logo=openjdk&logoColor=white&style=for-the-badge)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+
+<details>
+<summary>기술스택 상세</summary>
+
+### Major
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge)
 
-![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![JPA Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge)
 
@@ -82,6 +85,8 @@
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC342D?logo=rubyonrails&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+
+</details>
 
 ## GitHub Status
 
