@@ -2,7 +2,6 @@
 
 ## Skills
 
----
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-437291?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
@@ -90,7 +89,6 @@
 
 ## GitHub Status
 
----
 <div align=center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeoul&theme=transparent&hide_title=true&show_icons=true&rank_icon=github)
@@ -98,7 +96,6 @@
 
 ## Baekjoon Online Judge
 
----
 <div align=center>
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gyeoul)
